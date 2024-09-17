@@ -11,7 +11,7 @@ import SwiftUI
 struct PreProject13_InstashotApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnChangeModifier()
         }
     }
 }
